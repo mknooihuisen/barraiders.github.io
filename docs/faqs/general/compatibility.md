@@ -1,10 +1,26 @@
+---
+title: Compatibility Chart
+description: Find a complete list of what Stream Deck plugins by BarRaider is supported on your Elgato device for both Windows and Mac and see if ur system is supported!
+---
+
 <style>
 .md-typeset table:not([class]) th {
     min-width: 0rem;
 }
 </style>
-# Compatibility Chart
-Here you find a complete list of compatibility for Windows and Mac OS & Elgato Devices
+
+# Compatibility
+
+## Device not supported
+
+If you see a icon saying *Device Not Supported* there are two possibilites:
+
+1. You need to update your Stream Deck.
+2. Your Device is not a Elgato Stream Deck and therefore not supported.
+
+## Chart
+Here you find a complete list of compatibility for Windows and Mac OS & Elgato Devices.
+
 
 !!! info "What does the icons mean?"
 
@@ -15,12 +31,12 @@ Here you find a complete list of compatibility for Windows and Mac OS & Elgato D
 | Plugin                  | Windows | Mac | XL  | SD  | MK.2 | Mini | Plus | Pedal | Mobile |
 | ----------------------- | ------- | --- | --- | --- | ---- | ---- | ---- | ----- | ------ |
 | Advanced Launcher       | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
-| Advanced Screen Saver   | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
+| Advanced Screen Saver   | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [❌]("Not supported") | [❌]("Not supported")  | [❌]("Not supported")  |
 | API Ninja               | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
 | Audio Meter             | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
 | Battery                 | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
 | Cam Control             | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
-| Disco Visual Effects    | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [❌]("Not supported") | [❌]("Not supported")  | [❌]("Not supported")  |
+| Disco Visual Effects    | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [❌]("Not supported") | [❌]("Not supported") | [❌]("Not supported")  | [❌]("Not supported")  |
 | Elgato Facecam          | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
 | Emoji Picker            | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
 | Minecraft Stats         | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
@@ -33,12 +49,12 @@ Here you find a complete list of compatibility for Windows and Mac OS & Elgato D
 | Stopwatch               | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
 | Stream Countdown Timer  | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
 | Stream Counter          | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
-| Stream Deck Games       | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [❌]("Not supported") | [❌]("Not supported")  | [❌]("Not supported")  |
+| Stream Deck Games       | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [❌]("Not supported") | [❌]("Not supported") | [❌]("Not supported")  | [❌]("Not supported")  |
 | Super Macro             | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
 | Text File Tools         | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
 | TextToSpeech            | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
-| Twitch Tools            | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [🔅]("Partially supported") | [❌]("Not supported")  | [❌]("Not supported")  |
+| Twitch Tools            | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [🔅]("Partially supported") | [🔅]("Partially supported") | [❌]("Not supported")  | [❌]("Not supported")  |
 | VoiceMeeter Integration | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
-| Win Tools               | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [❌]("Not supported") | [❌]("Not supported")  | [❌]("Not supported")  |
+| Win Tools               | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [🔅]("Partially supported") | [❌]("Not supported") | [❌]("Not supported")  | [❌]("Not supported")  |
 | Windows Mover & Resizer | [✅]("Supported")    | [❌]("Not supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |
 | World Time              | [✅]("Supported")    | [✅]("Supported")| [✅]("Supported")| [✅]("Supported")| [✅]("Supported") | [✅]("Supported") | [✅]("Supported") | [✅]("Supported")  | [✅]("Supported")  |

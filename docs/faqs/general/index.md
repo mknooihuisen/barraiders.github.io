@@ -1,3 +1,8 @@
+---
+title: Troubleshooting General Issues with BarRaider Plugins
+description: Troubleshoot Stream Deck issues that's not plugin specific, such as install issues, text not displaying on key and early access information.
+---
+
 # General Issues (Not plugin specific)
 On this page you will find troubleshooting steps for general issues that are not specific to a Stream Deck plugin.
 

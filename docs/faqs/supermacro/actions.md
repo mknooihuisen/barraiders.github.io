@@ -1,10 +1,15 @@
+---
+title: SuperMacro - Available Actions
+description: Explore all the available actions in the SuperMacro plugin by BarRaider for the Elgato Stream Deck.
+---
+
 <!-- NOTE: To you, the Contributor!
     Ironically, the double-bracket syntax used in SuperMacro conflicts with a special Marco syntax we can use here.
     See custom-functions.md in the *root* of the repository for the workaround
 -->
 
-# Available actions 
-The plugin includes 6 actions (each can be dragged from the Stream Deck app on to an key). Here is a more in depth description of each action: 
+# SuperMacro - Available actions 
+The plugin includes six actions. Bellow you will find a more in depth description of each action.
 
 ## Super Macro
 This is the basic implementation. Create a macro and run it on keypress. Examples can be seen in the [Usage Examples](./examples.md) section.

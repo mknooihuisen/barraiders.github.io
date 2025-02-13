@@ -1,9 +1,14 @@
+---
+title: SuperMacro - Examples
+description: Looking for ideas on how to use the SuperMacro plugin? Find macro examples and improve your workflow today with SuperMacro by BarRaider.
+---
+
 <!-- NOTE: To you, the Contributor!
     Ironically, the double-bracket syntax used in SuperMacro conflicts with a special Marco syntax we can use here.
     See custom-functions.md in the *root* of the repository for the workaround
 -->
 
-# Examples
+# SuperMacro - Examples
   
 <details>
   <summary>Open Windows Explorer then go to C:\Program Files</summary>
@@ -52,9 +57,9 @@
 <details>
 <summary>Add comments in the code using {{ "`{{//}}`" }} command</summary>
   ```
-    {{ "INPUT:myNumber" }} {{ "//" }} User inputs number.
-    {{ "FUNC:MUL:MyResult:$myNumber:10" }} {{ "//" }} Multiply number by 10
-    {{ "OUTPUTTOFILE:MyResult:c:\\temp\\result.txt" }} {{ "//" }} Save result in file
+    {{ "{{INPUT:myNumber}}" }} {{ "{{//}}" }} User inputs number.
+    {{ "{{FUNC:MUL:MyResult:$myNumber:10}}" }} {{ "{{//}}" }} Multiply number by 10
+    {{ "{{OUTPUTTOFILE:MyResult:c:\\temp\\result.txt}}" }} {{ "{{//}}" }} Save result in file
   ```
 </details>
 
@@ -153,6 +158,12 @@
     ```
 </details>
 
+<details>
+  <summary>Click the mouse while a key is held (in this example we will simulate a shift click)</summary>
+    ```
+    {{ "{{KeyDown:LSHIFT}}{{LBUTTON}}{{KeyUp:LSHIFT}}" }}
+    ```
+</details>
 
 ## Variables
 <details>

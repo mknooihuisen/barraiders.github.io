@@ -1,9 +1,14 @@
-# How can I help?
+---
+title: Ways to support BarRaider
+description: Want to help BarRaider and the team out? Find out how to donate and help members. Join the BarRaider community today!
+---
+
+# Ways to support BarRaider.
 There are several ways you can help us out!
 
-- Supporting BarRaider through [Patreon](https://www.patreon.com/barraider)
-- Writing help articles or making YouTube guides that we can use
-- Helping people in the [Discord server](https://www.discord.barraider.com)
+- Supporting BarRaider through [Patreon](https://www.patreon.com/barraider).
+- Writing help articles or making YouTube guides that we can use.
+- Helping people by joining our [Discord server](https://www.discord.barraider.com) and start helping the BarRaider community today!
 <!---- Helping with our Open-Source projects found in [BarRaiders Github](https://github.com/BarRaider)
     - Developers who can port plugins over to Mac is needed --->
 

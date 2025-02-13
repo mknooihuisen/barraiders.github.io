@@ -1,4 +1,9 @@
-# Getting Started
+---
+title: OBS Tools - Getting Started
+description: Learn how to install and set up the BarRaider OBS Tools plugin on your Stream Deck to control OBS Studio, make the Stream Deck your very own stream Control Center today!
+---
+
+# OBS Tools - Getting Started
 
 !!! info "Did you turn it on?"
 
@@ -7,8 +12,8 @@
 ## Installation
 Install the BarRaider OBS plugin from the Elgato store or from our [Discord](http://discord.barraider.com).
 
-1. After installing, enable the websocket in OBS Studio: `Tools -> obs-websocket Setting`
-2. After following the steps above, drag one of the OBS Tools actions on to your Stream Deck and follow the setup wizard’s instructions. (You’ll need the port and password set in the previous step)
+1. After installing, enable the websocket in OBS Studio: `Tools -> Websocket Server settings`
+2. After following the steps above, drag one of the OBS Tools actions on to your Stream Deck and follow the setup wizard’s instructions (You’ll need the port and password set in the previous step).
     <p align="center">
         <img src="../img/gs1.png"/>
         <div style="text-align:center">

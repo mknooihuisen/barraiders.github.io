@@ -4,6 +4,7 @@ nav:
     - 'index.md' # Hidden in the menu, accessed when clicking "Plugin FAQs"
     - 'General Issues': 'faqs/general/index.md'
     - 'How can I help?': 'faqs/general/helping.md'
+    - 'Plugins by BarRaider': 'faqs/general/plugins.md'
     - 'Compatibility Chart': 'faqs/general/compatibility.md'
     - 'API Ninja': 'faqs/api-ninja/index.md'
     - 'Battery':
@@ -17,11 +18,14 @@ nav:
     - 'Spotify':
       - 'Getting started': 'faqs/spotify/getting-started.md'
       - 'Troubleshooting': 'faqs/spotify/troubleshooting.md'
+      - 'Playlist URI' : 'faqs/spotify/playlist-uri.md'
+    - 'Stock Ticker':
+      - 'Setting up finnhub.io API Key' : 'faqs/stock-ticker/getting-started.md'
     - 'Stream Counter':
       - 'Getting started': 'faqs/stream-counter/getting-started.md'
       - 'Troubleshooting': 'faqs/stream-counter/troubleshooting.md'
     - 'SuperMacro':
-      #- 'Getting started': 'faqs/supermacro/getting-started.md' BLANK PAGE
+      - 'Getting started': 'faqs/supermacro/getting-started.md'
       - 'Advanced Settings explained': 'faqs/supermacro/advanced-settings.md'
       - 'Available Actions': 'faqs/supermacro/actions.md'
       - 'Usage Examples': 'faqs/supermacro/examples.md'
@@ -40,6 +44,7 @@ nav:
     - 'Windows Mover & Resizer':
       - 'Getting Started': 'faqs/win-mover-resizer/getting-started.md'
       - 'Troubleshooting': 'faqs/win-mover-resizer/troubleshooting.md'
+    - 'World Time': 'faqs/world-time/index.md'
   - Discord: http://discord.barraider.com
 site_url: https://docs.barraider.com/
 extra:
